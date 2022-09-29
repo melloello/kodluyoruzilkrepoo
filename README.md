@@ -24,3 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ----
 https://choosealicense.com/licenses/mit/LICENSE
+
+---
+[Kodluyoruz](https://www.kodluyoruz.org/)
